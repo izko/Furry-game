@@ -1,2 +1,8 @@
 # Furry-game
-Game made using JavaScript after 3 weeks bootcamp in CodersLab
+
+Simple game made with VanillaJS using objective programming. Game made in the middle of 'JavaScript developers: React' bootcamp in CodersLab.
+
+###Technologies & features:
+* JavaScript
+* Webpack
+* CSS
