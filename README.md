@@ -6,3 +6,5 @@ Simple game made with VanillaJS using objective programming. Game made in the mi
 * JavaScript
 * Webpack
 * CSS
+
+See the result here: https://izko.github.io/Furry-game/
